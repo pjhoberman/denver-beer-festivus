@@ -1,0 +1,14 @@
+nav#main_nav {
+    float: left;
+    width: 200px;
+}
+
+section {
+    float: left;
+    max-width: 800px;
+    display: none;
+}
+
+section#home {
+    display: block;
+}
