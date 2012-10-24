@@ -28,3 +28,11 @@ section {
     max-width: 800px;
     display: none;
 }
+
+footer {
+    clear: both;
+    border-top: 1px solid #ccc;
+    width: 500px;
+    padding-top: 10px;
+    margin: 10px 0 10px 40px;
+}
