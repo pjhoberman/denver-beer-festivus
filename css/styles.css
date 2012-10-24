@@ -3,12 +3,12 @@ nav#main_nav {
     width: 200px;
 }
 
+nav#main_nav li {
+    cursor: pointer;
+}
+
 section {
     float: left;
     max-width: 800px;
     display: none;
-}
-
-section#home {
-    display: block;
 }
