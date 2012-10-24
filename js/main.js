@@ -16,5 +16,7 @@ $(document).ready(function(){
             $('li[data-section=home]').click();
         }
 
+    } else {
+        $('li[data-section=home]').click();
     }
 })
